@@ -130,6 +130,10 @@ public class HelloController {
 
 
 
-Output:
+## Output:
 
+<img width="1911" height="1077" alt="image" src="https://github.com/user-attachments/assets/1495f8f0-850f-401c-830b-90cefae4538c" />
+
+## Result:
+ Thus, the experiment was successfully executed and the expected output was obtained.
 
